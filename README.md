@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulsametsahin
+- 👋 Hi, I’m Abdulsamet Şahin
 - 👀 I’m interested in software development
 - 🌱 I’m currently working as a full-stack software engineer
 
